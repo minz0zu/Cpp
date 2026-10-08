@@ -19,4 +19,3 @@ C++ 학습 예제 모음. 폴더 번호는 학습 단원 번호입니다.
 - 빌드 예: `g++ 03/01_basic_class_object.cpp -o run`
   (여러 파일 프로젝트는 폴더 안의 `.cpp`를 모두 컴파일: `g++ 03/10_file_splict_circle/*.cpp -o run`)
 - 실행 파일(`*.exe`)은 `.gitignore`로 제외했습니다.
-- `test.cpp`는 연습용 임시 파일이며 `myswap(c, d)` 뒤에 세미콜론이 빠져 있어 그대로는 컴파일되지 않습니다.

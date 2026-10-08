@@ -13,7 +13,7 @@ int main(){
 	myswap(a, b);
 
 	double c=0.1, d=0.12;
-	myswap(c, d)
+	myswap(c, d);
 
 	return 0;
 }
